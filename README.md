@@ -25,5 +25,5 @@ This is the master data to be fed in to the system. Sellers can only have differ
 5. Admin
 Admin’s job is to manage the inventory, product, customer, seller information in the system.
 
-How to Run
+How to Run:
 In order to have a look at the code files and understand the working, simply download this repository and open in Spring Tool Suite/ Eclipse IDE/ IntelliJ and import to the downloaded project and run it. Upon loading, hit the respective urls on PostMan to test different functionalities.
